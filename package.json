@@ -4,6 +4,7 @@
   "description": "A Simple Calculator Run With The Help Of Typescript, Node.js & Inquirer",
   "main": "index.js",
   "type": "module",
+  "bin" : "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
